@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab 1</string>
+    <string name="hello">Hello</string>
+    <string name="name">Temirlan Kassymkul</string>
+    <string name="upload">Upload</string>
+    <string name="download">Download</string>
+</resources>
